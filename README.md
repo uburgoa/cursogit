@@ -1,3 +1,3 @@
 cursogit
 ========
-Hola
+Trabajo en equipo
